@@ -14,3 +14,7 @@ There is one pair of color  and one of color . There are three odd socks left, o
 [Problem Description](https://www.hackerrank.com/challenges/sock-merchant/problem)
 
 
+<br/>
+
+Comments added in the main.cpp 
+
